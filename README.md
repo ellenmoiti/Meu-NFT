@@ -10,4 +10,4 @@
 3) No Opensea:
    - Create -> Collection or Item
    - Preencha as informações solicitadas.
-     
+   - Certifique-se de ter em sua conta o valor necessário para a criação do NFT.
