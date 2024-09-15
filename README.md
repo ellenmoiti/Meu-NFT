@@ -21,4 +21,13 @@
 1) Ganache
    - Crie uma nova workspace
    - Conecte ao Remix com auxílio do Metamask
-   - 
+2) Remix
+   - Crie uma nova pasta
+   - Crie um novo file
+   - Cole o código fornecido na main tree (PokeDIO.sol)
+3) IPFS
+   - Importe as imagens que serão usadas
+   - Files > Import > File > Selecione as imagens desejadas > Ok
+   - Abra uma das imagens importadas > ...More > Share Link
+4) Remix
+   - Deploy & Run Transactions > Create new Pokémon > Preencha (imagem do link fornecido pelo IPFS) > Transact
